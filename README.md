@@ -1,7 +1,5 @@
 ---
 
-# 🚦 Road Accident Risk Dataset – README
-
 ## 📌 Overview
 
 This dataset contains road and environmental conditions along with accident-related information.
