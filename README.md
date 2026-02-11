@@ -56,7 +56,7 @@ It can be used as:
 1. Data Cleaning
 2. Exploratory Data Analysis (EDA)
 3. Feature Encoding (for categorical variables)
-4. Model Building (Regression or Classification)
+4. Model Building (Regression)
 5. Model Evaluation
 6. Deployment (optional)
 
