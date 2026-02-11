@@ -1,4 +1,3 @@
----
 
 ## 📌 Overview
 
@@ -11,7 +10,6 @@ The dataset contains:
 * **14 columns**
 * Mixed data types (categorical, numerical, and boolean)
 
----
 
 ## 📊 Column Description
 
@@ -32,7 +30,6 @@ The dataset contains:
 | `num_reported_accidents` | Number of reported accidents at that location/time                    |
 | `accident_risk`          | Calculated accident risk score (Target variable)                      |
 
----
 
 ## 🎯 Target Variable
 
@@ -44,7 +41,6 @@ It can be used as:
 * A **regression target** (predict risk score)
 * A **classification target** (if converted into low/medium/high risk categories)
 
----
 
 ## 💡 Possible Use Cases
 
@@ -54,7 +50,6 @@ It can be used as:
 * Build safety recommendation systems
 * Perform exploratory data analysis (EDA)
 
----
 
 ## 🛠 Suggested Workflow
 
@@ -65,7 +60,6 @@ It can be used as:
 5. Model Evaluation
 6. Deployment (optional)
 
----
 
 ## 📎 Notes
 
@@ -73,5 +67,4 @@ It can be used as:
 * Boolean columns may need conversion to 0/1 for modeling.
 * Feature scaling may help in some machine learning algorithms.
 
----
 
